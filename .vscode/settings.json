@@ -1,6 +1,6 @@
+
 {
-    "python-envs.defaultEnvManager": "ms-python.python:system",
-    "python.defaultInterpreterPath": "/home/duda/Faculdade/OPT098/fbcca/.venv/bin/python",
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
     "python.terminal.activateEnvironment": true,
-    "jupyter.notebookFileRoot": "/home/duda/Faculdade/OPT098/fbcca"
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
 }
