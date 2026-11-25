@@ -16,7 +16,7 @@ requisitada pelo professor.
 │   ├── input
 │   │   ├── 64-channels.loc             # descrição de todos os canais
 │   │   ├── Freq_Phase.mat              # 
-│   │   └── S1.mat                      # arquivo referente ao participante 'S1'
+│   │   └── S1.mat                      # arquivo referente aos dados do participante 'S1'
 │   └── output                          # arquivos processados
 │       ├── S1_cca_features.npy
 │       ├── S1_epo.fif
